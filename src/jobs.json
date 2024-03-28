@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "ee2b",
-      "title": "Test Job 1",
-      "type": "Full-Time",
-      "location": "Kyiv UA",
-      "description": "This is a test",
-      "salary": "Under $50K",
-      "company": {
-        "name": "NixSolution",
-        "description": "Description of NixSolution",
-        "contactEmail": "nix@solution.com",
-        "contactPhone": "+380935554422"
-      }
     }
   ]
 }
