@@ -44,16 +44,16 @@
     },
     {
       "id": "4",
-      "title": "React Front-End Developer",
-      "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Pheonix, AZ",
-      "salary": "$60K - $70K",
+      "title": "React Front-End Dev",
+      "type": "Remote",
+      "location": "Pheonix2, AZ",
+      "description": "Join  22 our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "$60K - 70K",
       "company": {
-        "name": "Alpha Elite",
-        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
-        "contactEmail": "contact@adipisicingelit.com",
-        "contactPhone": "555-555-5555"
+        "name": "Alpha Elite2",
+        "description": "Alpha222 Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact222@adipisicingelit.com",
+        "contactPhone": "555-555-55552222"
       }
     },
     {
@@ -74,8 +74,8 @@
       "id": "6",
       "title": "React Native Developer",
       "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "location": "Portland, OR",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "salary": "$100K - $110K",
       "company": {
         "name": "Port Solutions INC",
